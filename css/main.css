@@ -15,12 +15,12 @@ button,
 input,
 select,
 textarea {
-    color: #222;
+    color: #224;
 }
 
 html {
     font-size: 1em;
-    line-height: 1.4;
+    line-height: 1.0;
 }
 
 /*
@@ -305,7 +305,7 @@ textarea {
 
 
 .background-color{
-background-color: #24262D;
+background-color: #fefef0;
 }
 .CTAimage-area {
 border: 1px solid #000;
@@ -342,7 +342,7 @@ margin-top: 89px;
   line-height:87px;
 }
 #content > p:nth-child(2){
-font-family:"Georgia", serif;  
+font-family:"Helvetica", serif;  
 }
 #sidebar {
   //background-color: red;
@@ -360,11 +360,11 @@ font-family:"Georgia", serif;
 }
 
 .caption{
-  font-size:14px;
+  font-size:30px;
   margin-left:24px;
   margin-right:24px;
   margin-top: 12px;
-  font-family:"Georgia", serif;
+  font-family:"Helvetica", serif;
 
 }
 #register-form {
